@@ -5,14 +5,14 @@ import pandas as pd
 import streamlit as st
 
 """
-# Welcome to Streamlit!
+# APL App
 
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:
+Esta app permitirá identificar agentes que tengan mayor probabilidad de retirarse voluntariamente de Atlantic QI
 
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
+De esta manera se realizarán actividades que ayuden a los agentes a reencontrar su amor por AQI. :heart:
 
-In the meantime, below is an example of what you can do with just a few lines of code:
+
+Mientras tanto, hagamos un ejemplo de lo que se puede hacer con unas pocas lineas de codigo:
 """
 
 
